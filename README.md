@@ -1,6 +1,5 @@
 # 📊 Traffic Accidents in Colombia (1970–2025)
 
-![Project Overview](./Accidentes Vehiculos Colombia/Accidentes de transito Colombia 2026.png)
 
 ## 📌 Project Overview
 
